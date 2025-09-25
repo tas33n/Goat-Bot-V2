@@ -1,3 +1,17 @@
+
+## 🦾 Fork Version: What’s Different?
+
+This fork is a lightweight, modernized version of Goat-Bot-V2:
+
+- Removed all verification, Google APIs, and dashboard features—only `/uptime` API remains.
+- Uses [nexus-fca](https://github.com/tas33n/nexus-fca) for Facebook integration.
+- Cleaned up config files and dependencies for simplicity.
+- Codebase is easier to read and extend.
+
+---
+---
+---
+
 <img src="https://i.ibb.co/RQ28H2p/banner.png" alt="banner">
 <h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Goat Bot - Bot Chat Messenger</h1>
 
